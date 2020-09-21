@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/habimanasharif/ExP-Traker/static/css/main.4090f3f7.chunk.css",
+    "main.js": "/habimanasharif/ExP-Traker/static/js/main.22dea64c.chunk.js",
+    "main.js.map": "/habimanasharif/ExP-Traker/static/js/main.22dea64c.chunk.js.map",
+    "runtime-main.js": "/habimanasharif/ExP-Traker/static/js/runtime-main.3e740f39.js",
+    "runtime-main.js.map": "/habimanasharif/ExP-Traker/static/js/runtime-main.3e740f39.js.map",
+    "static/js/2.1b74b62e.chunk.js": "/habimanasharif/ExP-Traker/static/js/2.1b74b62e.chunk.js",
+    "static/js/2.1b74b62e.chunk.js.map": "/habimanasharif/ExP-Traker/static/js/2.1b74b62e.chunk.js.map",
+    "index.html": "/habimanasharif/ExP-Traker/index.html",
+    "precache-manifest.d50ede57b05f4f08ac6c320143fb9004.js": "/habimanasharif/ExP-Traker/precache-manifest.d50ede57b05f4f08ac6c320143fb9004.js",
+    "service-worker.js": "/habimanasharif/ExP-Traker/service-worker.js",
+    "static/css/main.4090f3f7.chunk.css.map": "/habimanasharif/ExP-Traker/static/css/main.4090f3f7.chunk.css.map",
+    "static/js/2.1b74b62e.chunk.js.LICENSE.txt": "/habimanasharif/ExP-Traker/static/js/2.1b74b62e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e740f39.js",
+    "static/js/2.1b74b62e.chunk.js",
+    "static/css/main.4090f3f7.chunk.css",
+    "static/js/main.22dea64c.chunk.js"
+  ]
+}
